@@ -5,6 +5,7 @@ import logo from '../assets/logo.JPG'
 export default function OnBoardingPage(){
   
 const [firstName, onChangeFirstName] = React.useState(''); 
+
 const [lastName, onChangeLastName] = React.useState(''); 
 
 
